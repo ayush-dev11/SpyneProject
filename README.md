@@ -21,8 +21,6 @@
 
 -MONGO_URI=mongodb://localhost:27017/spyne
 
--Couldn't deploy this due to lack of time working alongside my current job.
-
 -Feel free to reach out in case of any queries.
 
 -Thank You!!
